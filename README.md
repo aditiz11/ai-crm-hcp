@@ -65,3 +65,10 @@ Create `.env` inside backend folder:
 ```env
 GROQ_API_KEY=your_api_key
 ```
+
+#Screenshots
+<img width="1920" height="1020" alt="Screenshot 2026-05-07 200615" src="https://github.com/user-attachments/assets/ca696c6f-1f47-43e9-8805-a211678d7e18" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-05-07 200708" src="https://github.com/user-attachments/assets/7c80ce02-9a94-4930-b4da-5f6b9874fcb2" />
+
+
